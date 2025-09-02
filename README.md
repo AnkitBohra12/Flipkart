@@ -57,23 +57,6 @@ Install IntelliJ / Eclipse IDE
 
 Install Chrome Browser & matching ChromeDriver
 
-▶️ How to Run Tests
-
-Clone the repository:
-
-git clone https://github.com/your-username/flipkart-automation.git
-
-
-Navigate to project folder:
-
-cd flipkart-automation
-
-
-Run tests with Maven:
-
-mvn clean test
-
-
 View reports:
 
 target/cucumber-reports/index.html
